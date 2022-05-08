@@ -1,0 +1,3 @@
+how add, commit and push on external repo in one command
+git add test.txt && git commit -m "test" && git push
+
